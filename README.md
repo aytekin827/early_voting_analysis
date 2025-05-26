@@ -1,3 +1,5 @@
 # 선거방식(사전투표 vs 당일투표)과 정치적성향은 연관이 있다?
 에 대한 개인적 간단 통계분석
-C:\Users\ok\Desktop\선거데이터_20대 대통령 선거\스크린샷 2025-05-26 175634.png
+
+
+![{A76B1AC4-CB84-4F57-B60B-2144BD073E01}](https://github.com/user-attachments/assets/76aa01e4-f58d-46d4-96da-dadb775b192d)
