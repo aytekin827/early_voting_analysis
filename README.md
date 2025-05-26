@@ -1,2 +1,2 @@
-# early_voting_analysis
-early_voting_analysis
+# 선거방식(사전투표 vs 당일투표)과 정치적성향은 연관이 있다?
+에 대한 개인적 간단 통계분석
